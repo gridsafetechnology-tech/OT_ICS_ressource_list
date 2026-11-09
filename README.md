@@ -185,6 +185,7 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [MrM8BRH GitHub user resource list](https://github.com/MrM8BRH/CRLJ/blob/main/Red%20Team%20%26%20Penetration%20Testing/ICS%20%26%20SCADA.md) | A smaller version of this github, but not made by myself |
 | [Biero OT/ICS Resource list](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley) | Refresh button, but I had to put it there at some point. |
 | [Industrial Automation Abbreviation Acronyms – PLC Tutorial Point](https://www.plctutorialpoint.com/industrial-automation-abbreviation-acronyms/) | Wiki of abbreviations - good if, like myself, you hate acronyms because it goes messy if you're versatile |
+| [NERC CIP glossary in plain language](https://gridsafetech.com/resources/nerc-cip-glossary/) | Plain-language definitions of the NERC CIP terms OT teams meet first (BES Cyber System, ESP, EACMS, PACS, Transient Cyber Asset and others). |
 | [Major PLC manufacturers and PLC Software's List – PLC Tutorial Point](https://www.plctutorialpoint.com/major-plc-manufacturers-and-plc-softwares-list/) | List of the major PLC manufacturers & softwares |
 | [Arabic Automation Courses Collection](https://fr.scribd.com/document/674116750/) | Curated list of important automation and PLC courses and resources (Arabic). |
 
@@ -529,8 +530,6 @@ The rest is just a compilation of my own research. If you are interested, an HTM
 | [DOD requirement propositions](https://dl.dod.cyber.mil/wp-content/uploads/external/pdf/Jan_26_Control_Systems_SRG.pdf) | DEPARTMENT OF DEFENSE CONTROL SYSTEMS SECURITY REQUIREMENTS GUIDE |
 | [NIST Special Publication SP 800-82r3 Guide to Operational Technology Security](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r3.pdf) | Fundamental requirement for anybody who wants to start a OT security program |
 | [Saudi Arabia Operatinos Technology Cyber Control](https://nca.gov.sa/otcc_en.pdf) | Saudi Arabia versions of implementations of different requirement |
-| [NERC CIP-003-9 for low-impact sites: the plan and the evidence](https://gridsafetech.com/resources/cip-003-low-impact/) | Section-by-section walkthrough of the NERC CIP-003-9 low impact plan (Attachment 1, including the vendor remote access section in effect since April 2026) and the evidence that shows each part is followed at solar, wind and battery storage sites. |
-| [NERC CIP glossary in plain language](https://gridsafetech.com/resources/nerc-cip-glossary/) | Plain-language definitions of the NERC CIP terms OT teams meet first (BES Cyber System, ESP, EACMS, PACS, Transient Cyber Asset and others). |
 
 ## ICS Law and Act
 
